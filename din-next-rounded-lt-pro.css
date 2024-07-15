@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'DIN Next Rounded LT Pro';
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Light.woff2') format('woff2');
+  font-weight: 300; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN Next Rounded LT Pro';
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Regular.woff2') format('woff2');
+  font-weight: 400; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN Next Rounded LT Pro';
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Medium.woff2') format('woff2');
+  font-weight: 500; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN Next Rounded LT Pro';
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Bold.woff2') format('woff2');
+  font-weight: 700; 
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Apply the Satoshi font family globally */
+body {
+  font-family: 'DIN Next Rounded LT Pro', sans-serif;
+}
