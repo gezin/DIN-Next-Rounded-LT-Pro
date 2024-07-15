@@ -1,36 +1,36 @@
 @font-face {
   font-family: 'DIN Next Rounded LT Pro';
-  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Light.woff2') format('woff2');
-  font-weight: 300; 
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN%20Next%20Rounded%20LT%20Pro%20Light.otf') format('opentype');
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'DIN Next Rounded LT Pro';
-  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Regular.woff2') format('woff2');
-  font-weight: 400; 
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN%20Next%20Rounded%20LT%20Pro%20Regular.otf') format('opentype');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'DIN Next Rounded LT Pro';
-  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Medium.woff2') format('woff2');
-  font-weight: 500; 
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN%20Next%20Rounded%20LT%20Pro%20Medium.otf') format('opentype');
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'DIN Next Rounded LT Pro';
-  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN-Next-Rounded-LT-Pro-Bold.woff2') format('woff2');
-  font-weight: 700; 
+  src: url('https://raw.githubusercontent.com/gezin/DIN-Next-Rounded-LT-Pro/main/DIN%20Next%20Rounded%20LT%20Pro%20Bold.otf') format('opentype');
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
-/* Apply the Satoshi font family globally */
+/* Apply the font family globally */
 body {
   font-family: 'DIN Next Rounded LT Pro', sans-serif;
 }
